@@ -1,7 +1,7 @@
 # memes
 This
 is 
-For
+for
 my
 personal 
 irc 
